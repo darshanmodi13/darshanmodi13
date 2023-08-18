@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">## Hey there, I'm Darshan Modi 👋<br><br>🚀 Full Stack Developer | React.js | Node.js | MongoDB | Docker 🐳<br><br>Passionate about crafting seamless user experiences and bringing ideas to life through code. With a strong foundation in both front-end and back-end development, I thrive on building dynamic web applications that not only look great but also function flawlessly. My tech stack includes:<br><br>- React.js & Next.js for building responsive and interactive UIs<br>- Node.js & Express.js for powerful server-side logic<br>- MongoDB for efficient and scalable data storage<br>- Material UI & Tailwind CSS for stylish and intuitive designs<br>- Docker for containerized deployment and scalability<br><br>
+<p align="left">## Hey there, I'm Darshan Modi 👋<br><br>🚀 Full Stack Developer | React.js | Next.js | Node.js | MongoDB | Docker 🐳<br><br>Passionate about crafting seamless user experiences and bringing ideas to life through code. With a strong foundation in both front-end and back-end development, I thrive on building dynamic web applications that not only look great but also function flawlessly. My tech stack includes:<br><br>- React.js & Next.js for building responsive and interactive UIs<br>- Node.js & Express.js for powerful server-side logic<br>- MongoDB for efficient and scalable data storage<br>- Material UI & Tailwind CSS for stylish and intuitive designs<br>- Docker for containerized deployment and scalability<br><br>
 ### What I'm up to:<br>💬 Always excited to discuss new ideas, tech trends, and collaboration opportunities.<br><br>Let's code, innovate, and create together! 🎉</p>
 
 ###
